@@ -3,7 +3,7 @@ start tomcat
 cd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
 startup.bat
 
-paste this in browser 
+Paste this LINK in browser 
 
 http://localhost:8080/BYTENOTE
 
