@@ -1,4 +1,4 @@
-#BYTENOTE
+BYTENOTE - NOTE TAKING WEBAPP
 
 Technologies: Java, JSP, Servlets, JDBC, MySQL, Bootstrap, Tomcat
 
