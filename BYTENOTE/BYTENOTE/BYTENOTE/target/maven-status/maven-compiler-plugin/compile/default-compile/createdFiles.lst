@@ -1,0 +1,12 @@
+com\User\NoteDetails.class
+com\Servlet\AddNoteServlet.class
+com\DAO\UserDAO.class
+com\Servlet\LoginServlet.class
+com\Servlet\RegisterServlet.class
+com\Servlet\ShowNotesServlet.class
+com\User\UserDetails.class
+com\DAO\NoteDAO.class
+com\Servlet\DBListener.class
+com\DB\DBconnect.class
+com\Servlet\DeleteNotesServlet.class
+com\Servlet\EditNotesServlet.class
